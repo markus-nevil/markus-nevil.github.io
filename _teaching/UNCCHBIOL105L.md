@@ -2,7 +2,7 @@
 title: "BIOL 105L: Biology Research Skills"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/UNCCHBIOL105L
 venue: "UNC-CH, Biology Department"
 date: Fall, Spring, Summer
 location: "UNC Chapel Hill"
