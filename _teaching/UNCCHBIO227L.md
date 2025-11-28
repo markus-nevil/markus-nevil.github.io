@@ -1,5 +1,5 @@
 ---
-title: "BIOL 227L Communicating Genome Science"
+title: "BIOL 227L: Communicating Genome Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UNCCHBIO227L
