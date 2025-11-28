@@ -2,6 +2,7 @@
 title: "BIOS 4100: Evolutionary Genomics and Disease"
 collection: teaching
 type: "Undergraduate course"
+role: "Instructor"
 permalink: /teaching/UNCPBIOS4100
 venue: "UNCP, Biology Department"
 date: 2022-08-20

@@ -2,6 +2,7 @@
 title: "BIO 1000: Principles of Biology"
 collection: teaching
 type: "Undergraduate course"
+role: "Instructor"
 permalink: /teaching/UNCPBIO1000
 venue: "UNCP, Biology Department"
 date: 2022-01-08

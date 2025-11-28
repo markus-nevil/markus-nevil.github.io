@@ -2,6 +2,7 @@
 title: "BIOL 692H: Senior Honors Thesis"
 collection: teaching
 type: "Undergraduate course"
+role: "Instructor"
 permalink: /teaching/UNCCHBIOL692H
 venue: "UNC-CH, Biology Department"
 date: 2025-08-20
