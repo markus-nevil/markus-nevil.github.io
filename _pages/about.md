@@ -16,3 +16,6 @@ I'm a Teaching Assistant Professor in the Department of Biology at the Universit
 How I got here
 --------------
 TODO
+College
+Grad school
+Postdoc
