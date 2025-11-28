@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/UNCCHBIOL105L
 venue: "UNC-CH, Biology Department"
-date: Fall, Spring, Summer
+date: 2025-08-20
+semester: "Fall, Spring, and Summer Semesters"
 location: "UNC Chapel Hill"
 ---
 
