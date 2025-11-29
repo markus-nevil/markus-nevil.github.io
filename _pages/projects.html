@@ -9,12 +9,15 @@ Here are some of the projects that I'm excited to share. Each project includes a
 
 {% include base_path %}
 
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-  <br/>
-  <p style="text-align:center">
-    <img style='max-width: 100%;width: 600; height:auto;' src='{{post.image}}'>
-  </p>
-{% endfor %}
-
+{% if site.projects and site.projects.size > 0 %}
+  {% for post in site.projects %}
+    {% include archive-single.html %}
+    {% if post.image %}
+      <p style="text-align:center">
+        <img style="max-width:100%;width:600px;height:auto;" src="{{ post.image }}" alt="{{ post.title }}">
+      </p>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p>No projects found — check `\_config.yml` for the `projects` collection and make sure files live in `\_projects/` with YAML front matter.</p>
+{% endif %}
