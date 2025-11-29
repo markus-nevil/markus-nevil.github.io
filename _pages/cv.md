@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
-
 <h2 style="text-align: center;">Markus Nevil, Ph.D.</h2>
 <p style="text-align: center;">nevil@email.unc.edu</p>
 <p style="text-align: center;">Chapel Hill, NC</p>
@@ -46,18 +44,29 @@ redirect_from:
 ---
 
 ## Research
-- **IRACDA Postdoctoral Scholar**, UNC Chapel Hill — 2021–present  
-  NIH K12 SPIRE; Advisor: Dr. Robert Duronio
-  Project: Defining the role of chromatin organization and the epigenetic landscape on genome replication.
+- **IRACDA Postdoctoral Scholar**, UNC Chapel Hill — 2021–2024
+
+    NIH K12 SPIRE; Advisor: Dr. Robert Duronio
+
+    Project: Defining the role of chromatin organization and the epigenetic landscape on genome replication.
+
 - **Postdoctoral Fellow**, UNC Chapel Hill — 2020–2021  
-  NIH T32 CETP; Advisor: Dr. Robert Duronio
-  Project: Defining the role of chromatin organization and the epigenetic landscape on genome replication.
+  
+    NIH T32 CETP; Advisor: Dr. Robert Duronio
+  
+    Project: Defining the role of chromatin organization and the epigenetic landscape on genome replication.
+
 - **Graduate Research Assistant**, UW–Madison — 2014–2019  
-  Advisor: Dr. Melissa M. Harrison
-  Project: Elucidating transcriptional mechanisms that control the Drosophila transcription factor Grainy head during embryogenesis.
+  
+    Advisor: Dr. Melissa M. Harrison
+  
+    Project: Elucidating transcriptional mechanisms that control the Drosophila transcription factor Grainy head during embryogenesis.
+
 - **Undergraduate Research Assistant**, UW–Madison — 2010–2013  
-  Advisor: Dr. Marvin Wickens
-  Project: Evolution of PUF RNA-binding protein specificity across Ascomycota (senior thesis project).
+
+    Advisor: Dr. Marvin Wickens
+
+    Project: Evolution of PUF RNA-binding protein specificity across Ascomycota (senior thesis project).
 
 ---
 

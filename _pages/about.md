@@ -13,7 +13,7 @@ What I do
 --------------
 I'm a Teaching Assistant Professor in the Department of Biology at the University of North Carolina at Chapel Hill. In this role, I develop and teach courses that often have a component or focus in science communication to both scientific and lay audiences. As part of my role, I lead the Biology Senior Honors Thesis course and symposium and organize the Biology undergraduate posters sessions.
 
-Overall, I see my day-to-day role as helping students become better biologists and communicators of science. I enjoy developing materials for class, but I also enjoy the interactions I have with students--both in and out of my courses.
+Overall, I see my day-to-day role as helping students become better biologists and communicators of science. I enjoy developing materials for class, but I also enjoy the interactions I have with students--both in and out of my courses. When I was a student, I seriously undervalued interactions with my professors outside of a classroom and I encourage my students to take advantage of opportunities to connect.
 
 How I got here
 --------------
